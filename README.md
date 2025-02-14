@@ -75,7 +75,7 @@ Wait for the result to be randomly generated.
 
 If you win, you can withdraw your profit.
 
-Smart Contract Deployment
+# Smart Contract Deployment
 
 Ensure you have a .env file with the following:
 
